@@ -13,7 +13,7 @@
 
 If you like this game, please consider [supporting me on Patreon](https://www.patreon.com/Herodotus)!
 
-There is an official blog for this project at [ShatteredPixel.com](https://www.shatteredpixel.com/blog/).
+There is an official blog for this project at [herodotus.fandom.com](https://herodotus.fandom.com/blog/).
 
 The game also has a translation project hosted on [Transifex](https://www.transifex.com/shattered-pixel/shattered-pixel-dungeon/).
 
