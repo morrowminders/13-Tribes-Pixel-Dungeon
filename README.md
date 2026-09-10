@@ -1,6 +1,6 @@
 # 13 Tribes Pixel Dungeon
 
-[13 Tribes Pixel Dungeon](heppari.fandom.com/13tribespd) is an open-source traditional roguelike dungeon crawler with randomized levels and enemies, and hundreds of items to collect and use. It's based on the [source code of Shattered Pixel Dungeon](https://github.com/00-Evan/pixel-dungeon-gradle), by [00-Evan](https://www.watabou.ru).
+[13 Tribes Pixel Dungeon](morrowminders.fandom.com/13tribespd) is an open-source traditional roguelike dungeon crawler with randomized levels and enemies, and hundreds of items to collect and use. It's based on the [source code of Shattered Pixel Dungeon](https://github.com/00-Evan/pixel-dungeon-gradle), by [00-Evan](https://www.watabou.ru).
 
 13 Tribes Pixel Dungeon currently compiles for Android, iOS, and Desktop platforms. You can find official releases of the game on:
 
@@ -11,9 +11,9 @@
 [![Itch.io](https://shatteredpixel.com/assets/images/badges/itch.png)](https://shattered-pixel.itch.io/shattered-pixel-dungeon)
 [![Github Releases](https://shatteredpixel.com/assets/images/badges/github.png)](https://github.com/00-Evan/shattered-pixel-dungeon/releases)
 
-If you like this game, please consider [supporting me on Patreon](https://www.patreon.com/Herodotus)!
+If you like this game, please consider [supporting me on Patreon](https://www.patreon.com/morrowminders)!
 
-There is an official blog for this project at [herodotus.fandom.com](https://heppari.fandom.com/blog/).
+There is an official blog for this project at [morrowminders.fandom.com](https://morrowminders.fandom.com/blog/).
 
 The game also has a translation project hosted on [Transifex](https://www.transifex.com/shattered-pixel/shattered-pixel-dungeon/).
 
